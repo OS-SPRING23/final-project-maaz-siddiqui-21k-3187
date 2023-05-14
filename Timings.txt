@@ -1,0 +1,11 @@
+Serial Burst Time: 0.000002
+Serial Execution Time: 0.000000 seconds
+Multi-threading Burst Time: 0.000890 seconds
+Multi-threading Execution Time: 0.000222 seconds
+OpenMP Burst Time: 0.000001 seconds
+OpenMP Execution Time: 0.000001 seconds
+
+Serial Burst Time: 1.000000
+Serial Execution Time: 1
+
+
