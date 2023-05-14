@@ -1,8 +1,0 @@
-Burst Time Taken By Sequencial_Cocktail_Sort is 0.000001
-Total Time Taken By Sequencial_Cocktail_Sort is 0.000000
-Burst Time Taken By Multithreaded_Cocktail_Sort is 0.001052
-Time Taken By Multithreaded_Cocktail_Sort is 12391.000000
-Burst Time Taken By Sequential_Cocktail_Sort is 0.000000
-Total Time Taken By Sequential_Cocktail_Sort is 161.000000
-Burst Time Taken By Sequential_Cocktail_Sort is 0.000000
-Total Time Taken By Sequential_Cocktail_Sort is 297.000000
