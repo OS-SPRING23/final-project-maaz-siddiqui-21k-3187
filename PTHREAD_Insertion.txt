@@ -1,0 +1,2 @@
+Time Taken(Burst Time): 474.000000
+Time Taken(Clock Time): 324
