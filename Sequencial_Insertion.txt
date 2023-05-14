@@ -1,6 +1,0 @@
-Time Taken(Burst Time): 2.000000
-.comTime Taken(Clock Time): 1
-Time Taken(Burst Time): 0.000119
-Time Taken(Clock Time): 118
-Time Taken(Burst Time): 0.000138
-Time Taken(Clock Time): 138
